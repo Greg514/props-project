@@ -2,6 +2,7 @@
 
 import './App.css'
 import Profile from './components/Profile'
+import Skills from './components/Skills'
 
 function App() {
   
@@ -9,6 +10,7 @@ function App() {
   return (
     <>
        <Profile />
+       <Skills />
     </>
   )
 }
