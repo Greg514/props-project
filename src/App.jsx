@@ -10,6 +10,12 @@ function App() {
   return (
     <>
        <Profile />
+       <br />
+       <br />
+       <br />
+       <br />
+       <br />
+       <br />
        <Skills />
     </>
   )
