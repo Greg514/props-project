@@ -1,13 +1,14 @@
 
 
 import './App.css'
+import Profile from './components/Profile'
 
 function App() {
   
 
   return (
     <>
-       <h1>hello react world </h1>
+       <Profile />
     </>
   )
 }
