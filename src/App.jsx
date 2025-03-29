@@ -10,13 +10,14 @@ function App() {
 
   return (
     <>
-    <br />
+
+    <div className="Container">
        <Profile />
-       <br />
-       <br />
+     
        <Skills />
-        <br />
+     
         <TimeBasedGreeting /> 
+        </div>
     </>
   )
 }

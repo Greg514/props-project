@@ -8,7 +8,7 @@ export default function Skills() {
       <h1 className="skills-name">Skills</h1>
       <ul className="skills-list">
         {skills.map((skill, i) => (
-          <li key={i}>{skill}</li> 
+          <li className="ul" key={i}>{skill}</li> 
         ))}
       </ul>
     </div>
